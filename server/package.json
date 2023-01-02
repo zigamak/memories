@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon index.js"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -17,8 +17,4 @@
     "mongoose": "^6.6.7",
     "nodemon": "^2.0.20"
   }
-  
-    
-  
-
 }
