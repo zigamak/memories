@@ -18,4 +18,4 @@ const PostSchema= mongoose.Schema({
 
 const PostMessage = mongoose.model('PostMessage', PostSchema);
 
-export deafult PostMessage;
+export default PostMessage;
