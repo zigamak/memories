@@ -5,8 +5,9 @@ import Form from  './components/Form/Form';
 import memories from './images/memories.png';
 import useStyles from './styles';
 function App() {
-  const classes = useStyles();
-  return (
+    const classes = useStyles();
+    
+    return (
     <div>
       <Container maxwidth="lg">
         <AppBar className={classes.appBar} position="static" color="inherit">
