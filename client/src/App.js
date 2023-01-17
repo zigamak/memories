@@ -7,6 +7,7 @@ import Form from  './components/Form/Form';
 import memories from './images/memories.png';
 import useStyles from './styles';
 function App() {
+  //Added functions for usestyle
     const classes = useStyles();
     const disptach = useDispatch();
 
