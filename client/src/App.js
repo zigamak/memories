@@ -11,7 +11,7 @@ function App() {
     const classes = useStyles();
     //Added functions for usedispatch
     const disptach = useDispatch();
-
+    //Added functions for use effect
     useEffect(()=>{
       dispatch(getPosts());
     },[dispatch]);
