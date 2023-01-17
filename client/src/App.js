@@ -9,6 +9,7 @@ import useStyles from './styles';
 function App() {
   //Added functions for usestyle
     const classes = useStyles();
+    //Added functions for usedispatch
     const disptach = useDispatch();
 
     useEffect(()=>{
