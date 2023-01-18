@@ -9,7 +9,6 @@ import useStyles from './styles';
 function App() {
     const classes = useStyles();
     const disptach = useDispatch();
-    //Added functions for use effect
     useEffect(()=>{
       dispatch(getPosts());
     },[dispatch]);
