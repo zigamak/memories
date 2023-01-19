@@ -6,7 +6,7 @@ import useStyles from './styles';
 const Posts = ()=>{
     //updated use styles
     const classes = useStyles()
-    //Updated useselectors
+    
     const post = useSelector((state)=>state.posts);
 
     console.log(posts);
