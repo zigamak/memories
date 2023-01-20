@@ -4,7 +4,6 @@ import {useSelector} from 'react-redux';
 import useStyles from './styles';
  
 const Posts = ()=>{
-    //updated use styles
     const classes = useStyles()
     
     const post = useSelector((state)=>state.posts);
