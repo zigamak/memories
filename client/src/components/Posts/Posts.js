@@ -20,5 +20,4 @@ const Posts = ()=>{
     )
 }
 
-//exported post
 export default Posts;
