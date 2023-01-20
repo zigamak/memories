@@ -13,9 +13,12 @@ const Posts = ()=>{
         <>
             <h1>POST</h1>
             <Post />
+
+            //Inputed post
             <Post />
         </>
     )
 }
 
+//exported post
 export default Posts;
