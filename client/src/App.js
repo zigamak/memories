@@ -6,6 +6,7 @@ import {getPosts} from './actions/posts';
 import Posts from './components/Posts/Posts';
 import Form from  './components/Form/Form';
 import memories from './images/memories.png';
+// Imported styles 
 import useStyles from './styles';
 function App() {
     const classes = useStyles();
