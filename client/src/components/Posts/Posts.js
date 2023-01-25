@@ -2,7 +2,7 @@ import React from 'react';
 import Post from './Post/Post';
 import {useSelector} from 'react-redux';
 import useStyles from './styles';
- //Added images
+ 
 const Posts = ()=>{
     const classes = useStyles()
     
