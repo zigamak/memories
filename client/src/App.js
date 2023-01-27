@@ -24,6 +24,7 @@ function App() {
           <Typography className={classes.heading} variant="h2" align="center">
               <img className={classes.img} src={memories} alt= "memories" height='60' />
           </Typography>
+          {/*Updated Grow in*/}
           <Grow in> 
             <Container>
               <Grid container ="space-between" alignItems="stretch" spacing={3}> 
