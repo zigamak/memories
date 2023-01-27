@@ -26,6 +26,7 @@ function App() {
           </Typography>
           {/*Updated Grow in*/}
           <Grow in> 
+          {/*Updated Container */}
             <Container>
               <Grid container ="space-between" alignItems="stretch" spacing={3}> 
                 <Grid item xs={12} sm={7}>
