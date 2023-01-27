@@ -20,6 +20,7 @@ function App() {
       <Container maxwidth="lg">
         {/*Updated AppBAR*/}
         <AppBar className={classes.appBar} position="static" color="inherit">
+          {/*Updated typography*/}
           <Typography className={classes.heading} variant="h2" align="center">
               <img className={classes.img} src={memories} alt= "memories" height='60' />
           </Typography>
