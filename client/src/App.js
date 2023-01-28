@@ -29,6 +29,8 @@ function App() {
           {/*Updated Container */}
             <Container>
               <Grid container ="space-between" alignItems="stretch" spacing={3}> 
+              
+          {/*Updated Container */}
                 <Grid item xs={12} sm={7}>
                   <Posts/>                  
                 </Grid>
