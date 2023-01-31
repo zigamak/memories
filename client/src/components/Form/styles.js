@@ -3,6 +3,7 @@ import { makeStyles } from '@material-ui/core/styles';
 
 // exported styles for form 
 export default makeStyles(() => ({
+  //appBar style
   appBar: {
     borderRadius: 15,
     margin: '30px 0',
