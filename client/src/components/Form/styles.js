@@ -13,7 +13,7 @@ export default makeStyles(() => ({
   },//header style
   heading: {
     color: 'rgba(0,183,255, 1)',
-  },
+  },//image style
   image: {
     marginLeft: '15px',
   },
