@@ -10,5 +10,5 @@ const Form = ()=>{
         <h1>Form</h1>
     )
 }
-
+//Exported form function
 export default Form;
