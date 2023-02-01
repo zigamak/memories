@@ -1,5 +1,6 @@
-import React from 'react';
 //imported react
+import React from 'react';
+//imported style for form
 import useStyles from './styles';
 const Form = ()=>{
     
