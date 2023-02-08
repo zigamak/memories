@@ -1,4 +1,4 @@
-//Imported Combine reducers
+
 import { combineReducers } from "redux";
 import posts from '.posts';
 
