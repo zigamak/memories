@@ -11,7 +11,7 @@ export default makeStyles(() => ({
     justifyContent: 'center',
     alignItems: 'center',
   },//header style
-  heading: {
+  heading: {//header color
     color: 'rgba(0,183,255, 1)',
   },//image style
   image: {
