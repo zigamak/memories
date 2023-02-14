@@ -2,6 +2,7 @@
 import express from 'express';
 // imported bodyparser
 import bodyParser from 'body-parser';
+//imported mongoose
 import mongoose from 'mongoose';
 import cors from 'cors';
 import postRoutes from './routes/posts.js';
