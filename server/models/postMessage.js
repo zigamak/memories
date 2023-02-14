@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-
+//PostSchema
 const PostSchema= mongoose.Schema({
     title: String,
     message: String,
