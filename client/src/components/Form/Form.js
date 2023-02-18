@@ -2,7 +2,7 @@
 import React from 'react';
 //imported style for form
 import useStyles from './styles';
-//Form function
+
 const Form = ()=>{
     
     const classes = useStyles();
