@@ -43,7 +43,7 @@ export const getPosts = () => async (dispatch) => {
      console.log(error.message);
    }
  };
- 
+//
  export const deletePost = (id) => async (dispatch) => {
    try {
      await api.deletePost(id);
