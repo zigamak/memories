@@ -26,6 +26,7 @@ const Post = ({ post, setCurrentId }) => {
         <Button style={{ color: 'white' }} size="small" onClick={() => setCurrentId(post._id)}><MoreHorizIcon fontSize="default" /></Button>
       </div>
       <div className={classes.details}>
+        //Updated typography for class details
         <Typography variant="body2" color="textSecondary" component="h2">{post.tags.map((tag) => `#${tag} `)}</Typography>
       </div>
       //Updated typography for class title
