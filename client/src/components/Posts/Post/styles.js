@@ -1,5 +1,5 @@
 import { makeStyles } from '@material-ui/core/styles';
-//Updated styles for post
+
 export default makeStyles(() => ({
   appBar: {
     borderRadius: 15,
