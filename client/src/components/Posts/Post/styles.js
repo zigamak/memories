@@ -11,7 +11,7 @@ export default makeStyles(() => ({
   },
   heading: {
     color: 'rgba(0,183,255, 1)',
-  },//Updated image style
+  },
   image: {
     marginLeft: '15px',
   },
