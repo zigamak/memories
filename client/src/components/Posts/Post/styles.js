@@ -1,5 +1,5 @@
 import { makeStyles } from '@material-ui/core/styles';
-
+//Added default makeStyles for posts
 export default makeStyles(() => ({
   appBar: {
     borderRadius: 15,
@@ -9,6 +9,7 @@ export default makeStyles(() => ({
     justifyContent: 'center',
     alignItems: 'center',
   },
+  //Updated header color for posts
   heading: {
     color: 'rgba(0,183,255, 1)',
   },
