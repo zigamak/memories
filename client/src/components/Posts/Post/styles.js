@@ -9,7 +9,7 @@ export default makeStyles(() => ({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  //Updated header color for posts
+  //Updated header color for post
   heading: {
     color: 'rgba(0,183,255, 1)',
   },
